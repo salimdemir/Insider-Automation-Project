@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd970dc6-f0c6-4bd9-a760-530345f4b566" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drivers/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    <list default="true" id="dd970dc6-f0c6-4bd9-a760-530345f4b566" name="Changes" comment="Insider Automation Project">
+      <change beforePath="$PROJECT_DIR$/src/test/java/Page/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Page/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/CareersPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/CareersPageTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,12 +132,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711057187307</updated>
-      <workItem from="1711057188352" duration="44875000" />
+      <workItem from="1711057188352" duration="45744000" />
     </task>
+    <task id="LOCAL-00001" summary="Insider Automation Project">
+      <option name="closed" value="true" />
+      <created>1711271492644</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711271492644</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Insider Automation Project">
+      <option name="closed" value="true" />
+      <created>1711271657833</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711271657833</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Insider Automation Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Insider Automation Project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

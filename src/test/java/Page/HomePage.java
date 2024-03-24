@@ -13,14 +13,14 @@ public class HomePage extends BasePage {
 
     }
 
-    public void navbarClick(){
+    public void clickNavbar(){
 
         Assert.assertTrue(getPageUrl().startsWith("https://useinsider.com/"));
         WebElement companySection = findElement(By.xpath("//a[contains(text(), 'Company')]"));
         companySection.click();
     }
 
-    public void careerClick(){
+    public void clickCareerButton(){
         elementClickableWait(By.xpath("//a[text()='Careers']"));
         findElement(By.xpath("//a[text()='Careers']")).click();
     }

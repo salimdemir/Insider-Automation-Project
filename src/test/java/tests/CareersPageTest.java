@@ -24,9 +24,9 @@ public class CareersPageTest extends BaseTest {
     public void test() throws IOException {
 
         try {
-            homePage.navbarClick();
-            homePage.careerClick();
-            careersPage.teamsClick();
+            homePage.clickNavbar();
+            homePage.clickCareerButton();
+            careersPage.clickTeams();
             careersPage.qaButtonClick();
             careersPage.openAllJobs();
             Thread.sleep(10000);

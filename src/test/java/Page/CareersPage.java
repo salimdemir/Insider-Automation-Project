@@ -16,7 +16,7 @@ public class CareersPage extends BasePage {
         super(driver);
     }
 
-    public void teamsClick() throws InterruptedException {
+    public void clickTeams() throws InterruptedException {
 
 
         WebElement cookiesElement = findElement(By.xpath("/html/body/div[2]/div[1]/div/span/div/div[2]/a[1]"));
