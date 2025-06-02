@@ -1,4 +1,5 @@
 ❖ Test Automation Case Study
+
 • Visit https://useinsider.com/ and check Insider home page is opened or not
 • Select the “Company” menu in the navigation bar, select “Careers” and check Career
 page, its Locations, Teams, and Life at Insider blocks are open or not
